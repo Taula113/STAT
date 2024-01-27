@@ -1,0 +1,2 @@
+# STAT
+SillyTavern Auto Tagger
